@@ -1,0 +1,20 @@
+D:\Projects_C_Sharp\parcerHTML\parcerHTML_bastchange\parcerHTML_bastchange\bin\Release\parcerHTML_bastchange.exe.config
+D:\Projects_C_Sharp\parcerHTML\parcerHTML_bastchange\parcerHTML_bastchange\bin\Release\parcerHTML_bastchange.exe
+D:\Projects_C_Sharp\parcerHTML\parcerHTML_bastchange\parcerHTML_bastchange\bin\Release\parcerHTML_bastchange.pdb
+D:\Projects_C_Sharp\parcerHTML\parcerHTML_bastchange\parcerHTML_bastchange\obj\Release\parcerHTML_bastchange.Form1.resources
+D:\Projects_C_Sharp\parcerHTML\parcerHTML_bastchange\parcerHTML_bastchange\obj\Release\parcerHTML_bastchange.Properties.Resources.resources
+D:\Projects_C_Sharp\parcerHTML\parcerHTML_bastchange\parcerHTML_bastchange\obj\Release\parcerHTML_bastchange.csproj.GenerateResource.Cache
+D:\Projects_C_Sharp\parcerHTML\parcerHTML_bastchange\parcerHTML_bastchange\obj\Release\parcerHTML_bastchange.exe
+D:\Projects_C_Sharp\parcerHTML\parcerHTML_bastchange\parcerHTML_bastchange\obj\Release\parcerHTML_bastchange.pdb
+C:\Users\Руслан\Desktop\parcerHTML_bastchange\parcerHTML_bastchange\bin\Release\parcerHTML_bastchange.exe.config
+C:\Users\Руслан\Desktop\parcerHTML_bastchange\parcerHTML_bastchange\obj\Release\parcerHTML_bastchange.exe
+C:\Users\Руслан\Desktop\parcerHTML_bastchange\parcerHTML_bastchange\obj\Release\parcerHTML_bastchange.pdb
+C:\Users\Руслан\Desktop\parcerHTML_bastchange\parcerHTML_bastchange\bin\Release\parcerHTML_bastchange.exe
+C:\Users\Руслан\Desktop\parcerHTML_bastchange\parcerHTML_bastchange\bin\Release\parcerHTML_bastchange.pdb
+C:\Users\Руслан\Desktop\parcerHTML_bastchange\parcerHTML_bastchange\obj\Release\parcerHTML_bastchange.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Desktop\parcerHTML_bastchange\parcerHTML_bastchange\obj\Release\parcerHTML_bastchange.Form1.resources
+C:\Users\Руслан\Desktop\parcerHTML_bastchange\parcerHTML_bastchange\obj\Release\parcerHTML_bastchange.Properties.Resources.resources
+C:\Users\Руслан\Desktop\parcerHTML_bastchange\parcerHTML_bastchange\obj\Release\parcerHTML_bastchange.csproj.GenerateResource.Cache
+C:\Users\Руслан\Desktop\BCFinder\Version 1\parcerHTML_bastchange\parcerHTML_bastchange\bin\Release\parcerHTML_bastchange.exe.config
+C:\Users\Руслан\Desktop\BCFinder\Version 1\parcerHTML_bastchange\parcerHTML_bastchange\obj\Release\parcerHTML_bastchange.exe
+C:\Users\Руслан\Desktop\BCFinder\Version 1\parcerHTML_bastchange\parcerHTML_bastchange\obj\Release\parcerHTML_bastchange.pdb

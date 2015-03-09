@@ -1,0 +1,9 @@
+D:\Projects_C_Sharp\parcerHTML\parcerHTML_bastchange\parcerHTML_bastchange\bin\Debug\parcerHTML_bastchange.exe.config
+D:\Projects_C_Sharp\parcerHTML\parcerHTML_bastchange\parcerHTML_bastchange\bin\Debug\parcerHTML_bastchange.exe
+D:\Projects_C_Sharp\parcerHTML\parcerHTML_bastchange\parcerHTML_bastchange\bin\Debug\parcerHTML_bastchange.pdb
+D:\Projects_C_Sharp\parcerHTML\parcerHTML_bastchange\parcerHTML_bastchange\obj\Debug\parcerHTML_bastchange.csprojResolveAssemblyReference.cache
+D:\Projects_C_Sharp\parcerHTML\parcerHTML_bastchange\parcerHTML_bastchange\obj\Debug\parcerHTML_bastchange.Form1.resources
+D:\Projects_C_Sharp\parcerHTML\parcerHTML_bastchange\parcerHTML_bastchange\obj\Debug\parcerHTML_bastchange.Properties.Resources.resources
+D:\Projects_C_Sharp\parcerHTML\parcerHTML_bastchange\parcerHTML_bastchange\obj\Debug\parcerHTML_bastchange.csproj.GenerateResource.Cache
+D:\Projects_C_Sharp\parcerHTML\parcerHTML_bastchange\parcerHTML_bastchange\obj\Debug\parcerHTML_bastchange.exe
+D:\Projects_C_Sharp\parcerHTML\parcerHTML_bastchange\parcerHTML_bastchange\obj\Debug\parcerHTML_bastchange.pdb
